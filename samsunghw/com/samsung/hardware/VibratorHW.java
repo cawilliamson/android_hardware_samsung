@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package org.lineageos.hardware;
+package com.samsung.hardware;
 
-import org.lineageos.internal.util.FileUtils;
+import comn.samsung.internal.util.FileUtils;
 
 public class VibratorHW {
 
